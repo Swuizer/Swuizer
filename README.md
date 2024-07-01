@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swuizer&label=Profile%20views&color=0e75b6&style=flat" alt="swuizer" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 💬 Ask me about **C, C++, Java, JavaScript, DSA, MERN**
 
